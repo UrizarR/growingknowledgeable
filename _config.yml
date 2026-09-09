@@ -13,7 +13,7 @@
 title: growingknowledgeable
 
 # Your name to show in the footer
-author: Some Person
+author: Rebeca C. Urizar
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -139,14 +139,14 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+hover-col: "#D9DBF1"
+navbar-col: "#320E3B"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+footer-col: "#320E3B"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#D9DBF1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
