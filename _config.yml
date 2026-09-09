@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: growingknowledgeable
+title: Growing Knowledgeable
 
 # Your name to show in the footer
 author: Rebeca C. Urizar
@@ -145,7 +145,7 @@ navbar-text-col: "#FFFFFF"
 navbar-border-col: "#D9DBF1"
 footer-col: "#320E3B"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#404040"
+footer-link-col: "#486F75"
 footer-hover-col: "#AB6D8E"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
